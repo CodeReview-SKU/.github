@@ -22,6 +22,7 @@
 
 ## 4. 구현 기능
   - 소셜 로그인
+
   - 게시판
   - 즐겨찾기
   - 댓글
@@ -31,3 +32,11 @@
 
 ## 6. ERD
    [ERD URL] (https://dbdiagram.io/d/Code-Review-ERD-65a64542ac844320ae027510)
+
+   
+## 7. 결과물
+### 메인 화면 
+![화면-기록-2024-08-02-오후-5 16 50 (1)](https://github.com/user-attachments/assets/0e719ed2-5d3b-4d7e-abbf-26c5365ff0e0)
+### 로그인
+
+
