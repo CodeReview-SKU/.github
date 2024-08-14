@@ -36,7 +36,8 @@
    
 ## 7. 결과물
 ### 메인 화면 
-![화면-기록-2024-08-02-오후-5 16 50 (1)](https://github.com/user-attachments/assets/0e719ed2-5d3b-4d7e-abbf-26c5365ff0e0)
+![test1](https://github.com/user-attachments/assets/cb8bad2d-7ccb-4a4c-829f-649b09bbae20)
+
 ### 로그인
 
 
